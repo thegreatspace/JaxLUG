@@ -27,7 +27,7 @@ Install Git in your machine and use the terminal Git commands.
    need of manually copying and pasting files from the repository to your local machine. That method
    could create inaccurate file versions, and delete updates made by other users working on the same
    file.
-   Git is a way to check the files you have, in your computer,  against all the other changes pending
+   Git is a way to check the files you have, in your computer, against all the other changes pending
    updates in the master repository made by other contributors.
 
 You will still have to use an HTML editor or Code editor of your liking to edit the code in the files.
