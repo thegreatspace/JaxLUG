@@ -32,5 +32,5 @@ Install Git in your machine and use the terminal Git commands.
 
 You will still have to use an HTML editor or Code editor of your liking to edit the code in the files.
 
-And when the changes are done and the file is uploaded to GitHub you still need to make a 
+When the changes are done and the file is uploaded to GitHub you still need to make a 
 “Pull Request” So, a contributor or the manager of the site can approve the changes. 
