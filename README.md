@@ -1,4 +1,4 @@
-Hello and welcome to the JaxLUG Website collaboration
+##Hello and welcome to the JaxLUG Website collaboration
 
 This repository managed by the vise-president of Jacksonville Linux Users Group (JaxLUG) you can make updates to the website page by the two following methods.  
 
